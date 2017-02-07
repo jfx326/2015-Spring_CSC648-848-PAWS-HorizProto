@@ -9,6 +9,7 @@ Final beta (currently inaccessible): http://sfsuswe.com/~s15g08
 - Maksim Shishkov
 - Ben Saylor
 - Jeremy Brubaker
+- Howard Aben
 - Joseph Fernandez
 
 Developed and managed under the guidance of Prof. Dragutin Petkovic and Marc Sosnick.
